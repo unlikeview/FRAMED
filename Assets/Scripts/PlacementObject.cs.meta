@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 184076e547bf7e24f84e525a37a359cc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newMaterial: {fileID: 2100000, guid: 35cc6fa916cfdeb4fa857c3d2127053d, type: 2}
+  - oldMaterial: {fileID: 2100000, guid: d5c54fff89e7c544ea40c59cae086ad4, type: 2}
+  - OverlayText: {instanceID: 0}
+  - canvasComponent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

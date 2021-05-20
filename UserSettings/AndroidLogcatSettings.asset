@@ -1,0 +1,191 @@
+{
+    "m_SelectedDeviceId": "212307972e017ece",
+    "m_SelectedPackage": {
+        "deviceId": "212307972e017ece",
+        "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+        "processId": 28048,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 27292,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 28577,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 31076,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 933,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 2587,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 5742,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 9221,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 10359,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 11221,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 12891,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 14965,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 15414,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 16876,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 17898,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 18409,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 19019,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 21397,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 23170,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 25200,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 26636,
+            "exited": false
+        },
+        {
+            "deviceId": "212307972e017ece",
+            "name": "com.UnlikeView.ARPROJECT_GWANWOO",
+            "processId": 28048,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
