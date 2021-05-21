@@ -1,4 +1,3 @@
-
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
 using UnityEngine;
@@ -87,6 +86,7 @@ public class PlaceMentControllerWithMultiple : MonoBehaviour
         dismissButton.onClick.AddListener(Dismiss);
         scaleSlider.onValueChanged.AddListener((val) => OnScaleChanged(val));
         rotationSlider.onValueChanged.AddListener((val) => OnRotationChanged(val));
+        
 
 
         if (lockButton != null && gridButton != null)      // Lock버튼이 존재하는지 체크 
